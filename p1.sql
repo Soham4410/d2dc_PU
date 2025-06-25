@@ -10,3 +10,8 @@ select * from Student;
 -- insert into Student(id,st_name) values
 -- (11,'sumit'),
 -- (22,'bhavin');
+use d2da;
+-- update Student set name='pratik' where id=1;
+-- update Student set id=100 where st_name ='pratik';
+-- delete from Student where id=100;
+-- delete from Student where st_name='bhavin';
